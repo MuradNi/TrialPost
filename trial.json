@@ -1,13 +1,5 @@
 {
-  "keys": {
-    "yIcr66xsPDRO5H00": {
-      "status": "used",
-      "discord_id": "1313213",
-      "growid": "Wipes",
-      "device_id": "9dedb5d7d2b4d91da80b3870fe6e339fa2643d9f74e5ee9725deb84f55b65d23"
-    }
-  },
-  "expiration_times": {
-    "yIcr66xsPDRO5H00": 1724837329
-  }
+  "keys": {},
+  "expiration_times": {},
+  "device_ids": {}
 }
