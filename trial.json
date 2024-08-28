@@ -1,4 +1,13 @@
 {
-  "keys": {},
-  "expiration_times": {}
+  "keys": {
+    "0HSEv1dKRK4yxRK9": {
+      "status": "active",
+      "discord_id": "710015947158585374",
+      "growid": "Murad",
+      "device_id": "c73ef9f7-bff0-4648-a667-c880c42b24fc"
+    }
+  },
+  "expiration_times": {
+    "0HSEv1dKRK4yxRK9": 1726042693
+  }
 }
