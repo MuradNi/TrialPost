@@ -1,18 +1,24 @@
 {
   "keys": {
-    "randomKey1": {
+    "t5G9gC2zK7wR3fX1": {
       "status": "active",
       "discord_id": "123456789",
-      "growid": "ExampleGrowID1"
+      "growid": "example_grow_id_1"
     },
-    "randomKey2": {
-      "status": "active",
+    "a8H6jF4mN2pQ9yL7": {
+      "status": "inactive",
       "discord_id": "987654321",
-      "growid": "ExampleGrowID2"
+      "growid": "example_grow_id_2"
+    },
+    "b3K1rS7tU9vW5xZ2": {
+      "status": "active",
+      "discord_id": "246813579",
+      "growid": "example_grow_id_3"
     }
   },
   "expiration_times": {
-    "randomKey1": 1661990400,
-    "randomKey2": 1662595200
+    "t5G9gC2zK7wR3fX1": 1694361600,
+    "a8H6jF4mN2pQ9yL7": 1692547200,
+    "b3K1rS7tU9vW5xZ2": 1696953600
   }
 }
