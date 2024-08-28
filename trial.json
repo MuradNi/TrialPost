@@ -1,5 +1,13 @@
 {
-  "keys": {},
-  "expiration_times": {},
+  "keys": {
+    "bamnG1gettIKsVEH": {
+      "status": "active",
+      "discord_id": "992152530664566804",
+      "growid": "Wipes"
+    }
+  },
+  "expiration_times": {
+    "bamnG1gettIKsVEH": 1724836635
+  },
   "used_keys": {}
 }
