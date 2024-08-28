@@ -1,14 +1,4 @@
 {
-  "keys": {
-    "92th03Y9qj7vxSuj": {
-      "status": "used",
-      "discord_id": "123123123",
-      "growid": "Wipes",
-      "device_id": "9dedb5d7d2b4d91da80b3870fe6e339fa2643d9f74e5ee9725deb84f55b65d23"
-    }
-  },
-  "expiration_times": {
-    "92th03Y9qj7vxSuj": 1724836825
-  },
-  "used_keys": {}
+  "keys": {},
+  "expiration_times": {}
 }
