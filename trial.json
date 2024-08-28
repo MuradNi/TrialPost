@@ -1,11 +1,14 @@
 {
   "keys": {
-    
+    "5DraRXkr3WKeXOOb": {
+      "status": "active",
+      "discord_id": "992152530664566804",
+      "growid": "Wipes",
+      "device_id": "f87d99e6-7393-42c2-8732-8286f58f3365"
+    }
   },
   "expiration_times": {
-    
+    "5DraRXkr3WKeXOOb": 1724835868
   },
-  "used_keys": {
-    
-  }
+  "used_keys": {}
 }
