@@ -14,11 +14,17 @@
       "status": "active",
       "discord_id": "246813579",
       "growid": "example_grow_id_3"
+    },
+    "frNX8jlIjlBlFJTU": {
+      "status": "active",
+      "discord_id": "710015947158585374",
+      "growid": "Murad"
     }
   },
   "expiration_times": {
     "t5G9gC2zK7wR3fX1": 1694361600,
     "a8H6jF4mN2pQ9yL7": 1692547200,
-    "b3K1rS7tU9vW5xZ2": 1696953600
+    "b3K1rS7tU9vW5xZ2": 1696953600,
+    "frNX8jlIjlBlFJTU": 1726041798
   }
 }
