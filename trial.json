@@ -1,9 +1,10 @@
 {
   "keys": {
     "bamnG1gettIKsVEH": {
-      "status": "active",
-      "discord_id": "992152530664566804",
-      "growid": "Wipes"
+      "status": "used",
+      "discord_id": "2313123123",
+      "growid": "Wipes",
+      "device_id": "9dedb5d7d2b4d91da80b3870fe6e339fa2643d9f74e5ee9725deb84f55b65d23"
     }
   },
   "expiration_times": {
