@@ -1,5 +1,13 @@
 {
-  "keys": {},
-  "expiration_times": {},
+  "keys": {
+    "ZpMWGgApFKj8C3Ig": {
+      "status": "active",
+      "discord_id": "992152530664566804",
+      "growid": "Wipes"
+    }
+  },
+  "expiration_times": {
+    "ZpMWGgApFKj8C3Ig": 1724837996
+  },
   "device_ids": {}
 }
