@@ -1,17 +1,15 @@
 {
   "keys": {
-    
+    "JlSBtypdA9Yhcm6h": {
+      "status": "active",
+      "discord_id": "710015947158585374",
+      "growid": "Murad"
+    }
   },
   "expiration_times": {
-    
+    "JlSBtypdA9Yhcm6h": 1724902965
   },
-  "used_keys": {
-    
-  },
-  "device_ids": {
-    
-  },
-  "user_data": {
-    
-  }
+  "used_keys": {},
+  "device_ids": {},
+  "user_data": {}
 }
