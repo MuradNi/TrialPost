@@ -1,29 +1,6 @@
 {
-  "keys": {
-    "example_key_1": {
-      "status": "",
-      "discord_id": "",
-      "growid": "",
-      "device_id": "",
-      "use_time": null
-    },
-    "xyBKeukyrZo8VeRj": {
-      "status": "active",
-      "discord_id": "710015947158585374",
-      "growid": "Murad"
-    }
-  },
-  "expiration_times": {
-    "example_key_1": null
-  },
-  "used_keys": {
-    "example_key_2": {
-      "growid": "",
-      "expiration_time": null,
-      "status": ""
-    }
-  },
-  "device_ids": {
-    "example_growid_1": ""
-  }
+  "keys": {},
+  "expiration_times": {},
+  "used_keys": {},
+  "device_ids": {}
 }
