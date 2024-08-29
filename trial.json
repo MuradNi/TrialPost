@@ -1,5 +1,11 @@
 {
-  "keys": {},
+  "keys": {
+    "z6OLXCg9ba767TCG": {
+      "status": "active",
+      "discord_id": "992152530664566804",
+      "growid": "Wipes"
+    }
+  },
   "expiration_times": {},
   "used_keys": {},
   "device_ids": {}
