@@ -1,9 +1,11 @@
 {
   "keys": {
     "4pYEAUpzpuToqO7I": {
-      "status": "active",
+      "status": "used",
       "discord_id": "710015947158585374",
-      "growid": "Murad"
+      "growid": "Murad",
+      "device_id": "9dedb5d7d2b4d91da80b3870fe6e339fa2643d9f74e5ee9725deb84f55b65d23",
+      "use_time": 1724906171
     }
   },
   "expiration_times": {},
