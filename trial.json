@@ -1,5 +1,11 @@
 {
-  "keys": {},
+  "keys": {
+    "s9XtT31hjVtLtwvz": {
+      "status": "active",
+      "discord_id": "992152530664566804",
+      "growid": "Letnan"
+    }
+  },
   "expiration_times": {},
   "used_keys": {},
   "device_ids": {}
