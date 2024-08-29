@@ -1,15 +1,24 @@
 {
   "keys": {
-    "D84SyDYubQELj4Dc": {
-      "status": "used",
-      "discord_id": "710015947158585374",
-      "growid": "Murad",
-      "device_id": "9dedb5d7d2b4d91da80b3870fe6e339fa2643d9f74e5ee9725deb84f55b65d23"
+    "example_key_1": {
+      "status": "",
+      "discord_id": "",
+      "growid": "",
+      "device_id": "",
+      "use_time": null
     }
   },
   "expiration_times": {
-    "D84SyDYubQELj4Dc": 1724903363
+    "example_key_1": null
   },
-  "used_keys": {},
-  "device_ids": {}
+  "used_keys": {
+    "example_key_2": {
+      "growid": "",
+      "expiration_time": null,
+      "status": ""
+    }
+  },
+  "device_ids": {
+    "example_growid_1": ""
+  }
 }
