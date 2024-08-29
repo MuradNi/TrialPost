@@ -1,15 +1,17 @@
 {
   "keys": {
-    "GCMi4op9LeUGHVPu": {
-      "status": "active",
-      "discord_id": "710015947158585374",
-      "growid": "Murad"
-    }
+    
   },
   "expiration_times": {
-    "GCMi4op9LeUGHVPu": 1724902398
+    
   },
-  "used_keys": {},
-  "device_ids": {},
-  "user_data": {}
+  "used_keys": {
+    
+  },
+  "device_ids": {
+    
+  },
+  "user_data": {
+    
+  }
 }
