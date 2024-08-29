@@ -5,10 +5,16 @@
       "discord_id": "131321313",
       "growid": "Wipes",
       "device_id": "9dedb5d7d2b4d91da80b3870fe6e339fa2643d9f74e5ee9725deb84f55b65d23"
+    },
+    "aMG4wTC0fLSlYuuk": {
+      "status": "active",
+      "discord_id": "710015947158585374",
+      "growid": "Murad"
     }
   },
   "expiration_times": {
-    "ZpMWGgApFKj8C3Ig": 1724837996
+    "ZpMWGgApFKj8C3Ig": 1724837996,
+    "aMG4wTC0fLSlYuuk": 1724899616
   },
   "device_ids": {}
 }
