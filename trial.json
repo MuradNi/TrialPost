@@ -21,10 +21,16 @@
       "status": "active",
       "discord_id": "1133677123341660171",
       "growid": "XCLOUD"
+    },
+    "QSUMZGgxkbCiS6oj": {
+      "status": "active",
+      "discord_id": "439704176969383936",
+      "growid": "pahri"
     }
   },
   "expiration_times": {
-    "DSqj0RnlOfZz3oCI": 1729088158
+    "DSqj0RnlOfZz3oCI": 1729088158,
+    "QSUMZGgxkbCiS6oj": 1729088213
   },
   "used_keys": {},
   "device_ids": {}
