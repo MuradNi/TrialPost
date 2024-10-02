@@ -18,9 +18,11 @@
       "growid": "Menari"
     },
     "DSqj0RnlOfZz3oCI": {
-      "status": "active",
+      "status": "used",
       "discord_id": "1133677123341660171",
-      "growid": "XCLOUD"
+      "growid": "XCLOUD",
+      "device_id": "1535b323de0229a8f19420b22c838ce65ff64dd75e496da619196f37b1e4d2cc",
+      "use_time": 1727879001
     },
     "QSUMZGgxkbCiS6oj": {
       "status": "active",
