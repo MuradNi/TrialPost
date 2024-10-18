@@ -1,16 +1,5 @@
 {
-  "keys": {
-    "DpQXccWCYEviOLL0": {
-      "status": "expired",
-      "discord_id": "710015947158585374",
-      "growid": "Wipes"
-    },
-    "GW2iI0mVpAfHk77O": {
-      "status": "expired",
-      "discord_id": "1016703952206704711",
-      "growid": "AlvinoNotHomo"
-    }
-  },
+  "keys": {},
   "expiration_times": {},
   "used_keys": {},
   "device_ids": {}
