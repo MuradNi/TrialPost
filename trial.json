@@ -28,11 +28,17 @@
       "status": "active",
       "discord_id": "439704176969383936",
       "growid": "pahri"
+    },
+    "XYKoCZJjxRSbNPKi": {
+      "status": "active",
+      "discord_id": "1016703952206704711",
+      "growid": "AlvinoNotHomo"
     }
   },
   "expiration_times": {
     "DSqj0RnlOfZz3oCI": 1729088158,
-    "QSUMZGgxkbCiS6oj": 1729088213
+    "QSUMZGgxkbCiS6oj": 1729088213,
+    "XYKoCZJjxRSbNPKi": 1730466779
   },
   "used_keys": {},
   "device_ids": {}
