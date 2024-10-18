@@ -30,9 +30,11 @@
       "growid": "pahri"
     },
     "XYKoCZJjxRSbNPKi": {
-      "status": "active",
+      "status": "used",
       "discord_id": "1016703952206704711",
-      "growid": "AlvinoNotHomo"
+      "growid": "AlvinoNotHomo",
+      "device_id": "f31d56247962fedb59aa445daec30ff0df173092f9fe0bb00b5bd598372f9b39",
+      "use_time": 1729257711
     }
   },
   "expiration_times": {
