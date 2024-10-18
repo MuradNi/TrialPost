@@ -1,13 +1,5 @@
 {
-  "keys": {
-    "MMXUbh6PtwwlpOEQ": {
-      "status": "active",
-      "discord_id": "710015947158585374",
-      "growid": "Murad",
-      "creation_time": 1729270857,
-      "expiration_time": 1730480457
-    }
-  },
+  "keys": {},
   "expiration_times": {},
   "used_keys": {},
   "device_ids": {}
