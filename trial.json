@@ -1,11 +1,5 @@
 {
-  "keys": {
-    "0I7HkXdUEAKFM43A": {
-      "status": "expired",
-      "discord_id": "710015947158585374",
-      "growid": "Murad"
-    }
-  },
+  "keys": {},
   "expiration_times": {},
   "used_keys": {},
   "device_ids": {}
