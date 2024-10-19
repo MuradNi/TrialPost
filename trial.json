@@ -1,9 +1,11 @@
 {
   "keys": {
     "6bC1RIeDJFWqPleX": {
-      "status": "active",
+      "status": "used",
       "discord_id": "710015947158585374",
-      "growid": "Bebas aja"
+      "growid": "Bebas aja",
+      "device_id": "704863df6d3ea2b2a761f4a141f8a771454c0be6fdc3d3d83cc26d5143018d60",
+      "use_time": 1729309746
     }
   },
   "expiration_times": {},
