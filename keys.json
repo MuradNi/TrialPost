@@ -1,14 +1,3 @@
 {
-  "keys": {
-    "key123": {
-      "status": "active",
-      "discord_id": "user_discord_id",
-      "growid": "user_grow_id",
-      "device_id": null,
-      "use_time": expiration_time
-    }
-  },
-  "growids": {
-    "user_discord_id": "user_grow_id"
-  }
+  "keys": 
 }
