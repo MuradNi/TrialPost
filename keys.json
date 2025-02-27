@@ -1,5 +1,13 @@
 {
-  "keys": {},
+  "keys": {
+    "K67GOHO14PJG0I8W": {
+      "status": "active",
+      "discord_id": "992152530664566804",
+      "device_id": null,
+      "expiration_time": 1741262058,
+      "growid": "Murad"
+    }
+  },
   "users": {
     "992152530664566804": {
       "growid": "Murad"
