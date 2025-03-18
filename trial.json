@@ -1,4 +1,10 @@
 {
-  "keys": {},
+  "keys": {
+    "3xzSUJWJZpQRnIA9": {
+      "status": "active",
+      "discord_id": "710015947158585374",
+      "device_id": null
+    }
+  },
   "expiration_times": {}
 }
