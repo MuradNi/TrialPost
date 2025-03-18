@@ -1,1 +1,15 @@
-
+{
+  "keys": {
+    "Tan18": {
+      "status": "used",
+      "discord_id": "948486513237307413",
+      "device_id": "73451356259689f94c883e247f70b6beaa71d9f5b498b3dc2db53b3ee11608af"
+    },
+    "Murad": {
+      "status": "used",
+      "discord_id": "710015947158585374",
+      "device_id": "704863df6d3ea2b2a761f4a141f8a771454c0be6fdc3d3d83cc26d5143018d60"
+    }
+  },
+  "expiration_times": {}
+}
